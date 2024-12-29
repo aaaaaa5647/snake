@@ -1,0 +1,31 @@
+Change Dir: 'C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/blds/nanosvg/x64-windows-rel'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v -v -j5 install
+[1/5] C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1440~1.338\bin\Hostx64\x64\cl.exe   -DNANOSVGRAST_IMPLEMENTATION -IC:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\src\3c38610b1f-dc4edc4939.clean\src /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7 /showIncludes /FoCMakeFiles\nanosvgrast.dir\nanosvgrast.c.obj /FdCMakeFiles\nanosvgrast.dir\nanosvgrast.pdb /FS -c C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvgrast.c
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvgrast.c(349): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvgrast.c(349): warning C4244: функция: преобразование "double" в "float", возможна потеря данных
+[2/5] C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1440~1.338\bin\Hostx64\x64\cl.exe   -DNANOSVG_IMPLEMENTATION  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7 /showIncludes /FoCMakeFiles\nanosvg.dir\nanosvg.c.obj /FdCMakeFiles\nanosvg.dir\nanosvg.pdb /FS -c C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(1251): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(1273): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(1274): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(1275): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(1473): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(1481): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(1523): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(2597): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(2601): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(2605): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-windows-rel\nanosvg.c(2609): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+[3/5] cmd.exe /C "cd . && C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1440~1.338\bin\Hostx64\x64\lib.exe  /machine:x64 /nologo /out:nanosvg.lib CMakeFiles\nanosvg.dir\nanosvg.c.obj  && cd ."
+[4/5] cmd.exe /C "cd . && C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1440~1.338\bin\Hostx64\x64\lib.exe  /machine:x64 /nologo /out:nanosvgrast.lib CMakeFiles\nanosvgrast.dir\nanosvgrast.c.obj  && cd ."
+[4/5] cmd.exe /C "cd /D C:\Users\max_L\source\repos\snake1\snake1\vcpkg_installed\x64-windows\vcpkg\blds\nanosvg\x64-wi-- Install configuration: "Release"
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/nanosvg.lib
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/nanosvgrast.lib
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/include/nanosvg/nanosvg.h
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/include/nanosvg/nanosvgrast.h
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/cmake/NanoSVG/NanoSVGTargets.cmake
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/cmake/NanoSVG/NanoSVGTargets-release.cmake
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/cmake/NanoSVG/NanoSVGConfig.cmake
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/cmake/NanoSVG/NanoSVGConfigVersion.cmake
+ndows-rel && C:\Users\max_L\AppData\Local\vcpkg\downloads\tools\cmake-3.27.1-windows\cmake-3.27.1-windows-i386\bin\cmake.exe -P cmake_install.cmake"
+

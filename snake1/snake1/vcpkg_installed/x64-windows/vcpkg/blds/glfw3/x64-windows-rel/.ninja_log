@@ -1,0 +1,26 @@
+# ninja log v5
+11	398	7569168202671109	src/CMakeFiles/glfw.dir/init.c.obj	56ac1819cbb7a92f
+24	423	7569168202751055	src/CMakeFiles/glfw.dir/platform.c.obj	1dce789cad2590d
+6	427	7569168202980910	src/CMakeFiles/glfw.dir/context.c.obj	10fb5e7767636ce8
+20	838	7569168207048405	src/CMakeFiles/glfw.dir/monitor.c.obj	4eeb8be6949c3d5c
+419	902	7569168207598073	src/CMakeFiles/glfw.dir/vulkan.c.obj	86d650abaec5929
+423	918	7569168207727994	src/CMakeFiles/glfw.dir/window.c.obj	a46c671c7b1566d4
+15	924	7569168207907880	src/CMakeFiles/glfw.dir/input.c.obj	4196ebd71c40602b
+427	1005	7569168208467535	src/CMakeFiles/glfw.dir/egl_context.c.obj	e40a0b7812582d1e
+903	1296	7569168211665559	src/CMakeFiles/glfw.dir/null_init.c.obj	46879b04698c189b
+918	1300	7569168211535639	src/CMakeFiles/glfw.dir/null_monitor.c.obj	dce3c488a165cbe7
+1010	1418	7569168212924788	src/CMakeFiles/glfw.dir/null_joystick.c.obj	31b8ac4d7b80f826
+924	1422	7569168212864823	src/CMakeFiles/glfw.dir/null_window.c.obj	4bf00a2375501e45
+838	1426	7569168212984757	src/CMakeFiles/glfw.dir/osmesa_context.c.obj	4d88901b635f383f
+1296	1735	7569168215982908	src/CMakeFiles/glfw.dir/win32_module.c.obj	8c85d24e9295a69d
+1300	1740	7569168216022875	src/CMakeFiles/glfw.dir/win32_time.c.obj	3dfd65e8c5f078ba
+1418	1744	7569168216142806	src/CMakeFiles/glfw.dir/win32_thread.c.obj	2a632745906605c9
+1422	2045	7569168218701224	src/CMakeFiles/glfw.dir/win32_init.c.obj	b70bb4a19a0867d7
+1426	2166	7569168220140340	src/CMakeFiles/glfw.dir/win32_joystick.c.obj	9a640c91a7e905d
+1735	2203	7569168220420177	src/CMakeFiles/glfw.dir/win32_monitor.c.obj	828a0d371ea3383b
+1744	2285	7569168221619429	src/CMakeFiles/glfw.dir/wgl_context.c.obj	e7b60622d2f801fe
+2045	2313	7569168221929234	src/CMakeFiles/glfw.dir/glfw.rc.res	9bb7d81c23e85dc2
+1740	2326	7569168222049159	src/CMakeFiles/glfw.dir/win32_window.c.obj	e196e37107d2c164
+2326	2566	7569168224118446	src/glfw3.dll	19fffc63bd5c7309
+2326	2566	7569168224118446	src/glfw3dll.lib	19fffc63bd5c7309
+2567	2731	0	CMakeFiles/install.util	4822961046b70bbb

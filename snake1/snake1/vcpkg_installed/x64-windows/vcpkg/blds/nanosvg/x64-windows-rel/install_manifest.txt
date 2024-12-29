@@ -1,0 +1,8 @@
+C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/nanosvg.lib
+C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/nanosvgrast.lib
+C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/include/nanosvg/nanosvg.h
+C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/include/nanosvg/nanosvgrast.h
+C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/cmake/NanoSVG/NanoSVGTargets.cmake
+C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/cmake/NanoSVG/NanoSVGTargets-release.cmake
+C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/cmake/NanoSVG/NanoSVGConfig.cmake
+C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/nanosvg_x64-windows/lib/cmake/NanoSVG/NanoSVGConfigVersion.cmake

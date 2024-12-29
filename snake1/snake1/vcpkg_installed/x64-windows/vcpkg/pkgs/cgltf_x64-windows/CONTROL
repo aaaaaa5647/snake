@@ -1,0 +1,6 @@
+Package: cgltf
+Version: 1.13
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c08e706d8a637e2ac3b68299bc76351765655ffea289e1146fbe4411d9c8c83d
+Description: Single-file glTF 2.0 loader and writer written in C99

@@ -1,0 +1,8 @@
+-- Downloading https://github.com/nothings/stb/archive/5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz -> nothings-stb-5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz...
+-- Extracting source C:/Users/max_L/AppData/Local/vcpkg/downloads/nothings-stb-5736b15f7ea0ffb08dd38af21067c314d6a3aae9.tar.gz
+-- Using source at C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/blds/stb/src/14d6a3aae9-dc9b68ccde.clean
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/stb_x64-windows/share/stb/FindStb.cmake
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/stb_x64-windows/share/stb/vcpkg-cmake-wrapper.cmake
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/stb_x64-windows/share/stb/usage
+-- Installing: C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/pkgs/stb_x64-windows/share/stb/copyright
+-- Выполнение проверки после сборки

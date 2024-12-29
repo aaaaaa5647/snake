@@ -1,0 +1,23 @@
+﻿  Game.cpp
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(27,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(28,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(29,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(30,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(31,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(32,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(33,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(34,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Snake.cpp
+  snake1.cpp
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(27,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(28,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(29,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(30,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(31,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(32,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(33,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\max_L\source\repos\snake1\snake1\Game.h(34,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SnakeBody.cpp
+  SnakeCell.cpp
+  Создание кода...
+  snake1.vcxproj -> C:\Users\max_L\source\repos\snake1\x64\Debug\snake1.exe

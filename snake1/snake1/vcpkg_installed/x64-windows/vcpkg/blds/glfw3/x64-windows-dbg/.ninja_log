@@ -1,0 +1,26 @@
+# ninja log v5
+30	492	7569168174379793	src/CMakeFiles/glfw.dir/platform.c.obj	ebfcb97486a71863
+11	502	7569168174439763	src/CMakeFiles/glfw.dir/init.c.obj	50a33e8bcee7ebb7
+23	515	7569168174529705	src/CMakeFiles/glfw.dir/monitor.c.obj	d36eb2089100014c
+16	540	7569168174779552	src/CMakeFiles/glfw.dir/input.c.obj	6e1aef2b21e8df
+6	608	7569168175339202	src/CMakeFiles/glfw.dir/context.c.obj	e15b2dae2382161c
+502	950	7569168178976961	src/CMakeFiles/glfw.dir/window.c.obj	12908b7de6359035
+515	955	7569168179046918	src/CMakeFiles/glfw.dir/egl_context.c.obj	e266bcd3eec1a427
+541	961	7569168179106881	src/CMakeFiles/glfw.dir/osmesa_context.c.obj	563638e3a6b36108
+497	1141	7569168180316137	src/CMakeFiles/glfw.dir/vulkan.c.obj	c12ae350e5a21ef
+608	1145	7569168181005710	src/CMakeFiles/glfw.dir/null_init.c.obj	5b40072e3279feda
+955	1345	7569168182924529	src/CMakeFiles/glfw.dir/null_window.c.obj	751f20221c9c8df9
+950	1350	7569168182994490	src/CMakeFiles/glfw.dir/null_monitor.c.obj	f69bddaf2e506939
+964	1354	7569168183104423	src/CMakeFiles/glfw.dir/null_joystick.c.obj	5fa6f0bafd5e7f42
+1141	1674	7569168185832738	src/CMakeFiles/glfw.dir/win32_module.c.obj	7570f2e964ad987e
+1346	1692	7569168186482339	src/CMakeFiles/glfw.dir/win32_thread.c.obj	2345a00d7724b096
+1146	1741	7569168186502325	src/CMakeFiles/glfw.dir/win32_time.c.obj	fd73ec2ae179b7ce
+1350	1762	7569168187051987	src/CMakeFiles/glfw.dir/win32_init.c.obj	b41a6bbcd55ae96a
+1354	2009	7569168189460499	src/CMakeFiles/glfw.dir/win32_joystick.c.obj	b3cf15afc0cb7a48
+1741	2128	7569168190889630	src/CMakeFiles/glfw.dir/wgl_context.c.obj	5fbb369ba0f99300
+1674	2129	7569168190909609	src/CMakeFiles/glfw.dir/win32_monitor.c.obj	453cf3d2181acbd6
+1762	2145	7569168191069510	src/CMakeFiles/glfw.dir/glfw.rc.res	586e2165c0cdcc51
+1692	2193	7569168191547409	src/CMakeFiles/glfw.dir/win32_window.c.obj	6018e9fa714f5cf5
+2193	2685	7569168196065174	src/glfw3.dll	cd1646d0ddc4a321
+2193	2685	7569168196065174	src/glfw3dll.lib	cd1646d0ddc4a321
+2686	2876	0	CMakeFiles/install.util	bd7edadbc48e7ef8

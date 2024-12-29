@@ -1,0 +1,4 @@
+-- Downloading https://github.com/jkuhlmann/cgltf/archive/v1.13.tar.gz -> jkuhlmann-cgltf-v1.13.tar.gz...
+-- Extracting source C:/Users/max_L/AppData/Local/vcpkg/downloads/jkuhlmann-cgltf-v1.13.tar.gz
+-- Using source at C:/Users/max_L/source/repos/snake1/snake1/vcpkg_installed/x64-windows/vcpkg/blds/cgltf/src/v1.13-ba4e2cf8d4.clean
+-- Выполнение проверки после сборки
