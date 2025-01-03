@@ -13,7 +13,7 @@ int main()
 
     Window window(screenWidth, screenHeight, "Game Test");
     window.SetTargetFPS(60);
-    raylib::Font font("C:/Users/max_L/Downloads/raylib-cpp-master/raylib-cpp-master/examples/text/resources/pixantiqua.fnt");
+    raylib::Font font("raylib-cpp-master/raylib-cpp-master/examples/text/resources/pixantiqua.fnt");
     Text text(font, "Game over!", 30, 1, raylib::BLACK);
     Game game;
     DisableCursor();
